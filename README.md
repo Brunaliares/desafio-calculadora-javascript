@@ -1,4 +1,4 @@
-# Desafio-calculadora de Rank
+# Desafio-calculadora de Partidas Rankeadas
 
 Este projeto cria uma função em JavaScript que calcula o rank de um jogador de partidas ranqueadas.
 
